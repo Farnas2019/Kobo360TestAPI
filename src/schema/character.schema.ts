@@ -9,6 +9,7 @@ const payload = {
       phone: string({ required_error: "Phone Number is required" }),
       dob: string({ required_error: "date of birth is required" }),
       bio: string({ required_error: "Bio is required" }),
+      movie: string({ required_error: "Movie is required" }),
       email: string({ required_error: "Email is required" }).email("This Must be a valid email"),
   }),
 };
