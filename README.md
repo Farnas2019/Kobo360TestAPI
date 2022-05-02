@@ -36,7 +36,14 @@ Start mongodb service and connect to the mongo shell
  - npm or yarn run dev
 
 ## Documentation And How it works
+- Link To Live API Deployment on Postman
 https://documenter.getpostman.com/view/9038236/UyrGCZui
+
+- GitHub Link
+https://github.com/Farnas2019/Kobo360TestAPI.git
+
+- Link To Live Deployment on Render
+
 
 ## Concepts
 
